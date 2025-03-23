@@ -1,0 +1,54 @@
+.container{
+    border: 1px solid black;
+    height:145vh;
+    width: 540px;
+    margin-left: 30%;
+    background-color:;
+}
+
+.box1 {
+    background-color:#8F87F1 ;
+    border: none;
+}
+
+img{
+    width:89px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 5px;
+    
+}
+
+h1{
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 500px;
+}
+P{
+    text-align: center;
+    font-weight: 200;
+}
+hr{
+    color: gray;
+    width: 423px;
+}
+
+#pp p{
+    text-align: left;
+    margin-left: 10px;
+
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
